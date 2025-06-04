@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 311eb2c432ee5a44ea3ecb2a37857136
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpBar: {instanceID: 0}
+  - attackObject: {fileID: 7757552597656990116, guid: c1e155e1441f3524e84dd40699a5b832, type: 3}
+  - attackEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

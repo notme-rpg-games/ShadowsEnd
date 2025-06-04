@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6c4f1bf7df6b230488c121cf6fc1878c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SwordPrefab: {fileID: 1603943073020146134, guid: 23cce9fb4a91e8847a74db4a0cd1fecb, type: 3}
+  - ShieldPrefab: {fileID: 4965571665005716868, guid: 6c5c1cdc38ce1bc45bdd74670205dd1a, type: 3}
+  - arrowPrefab: {fileID: 1959729250425484, guid: 956965f74c67f3b4aa4f8dae32309500, type: 3}
+  - bowPrefab: {fileID: 1717406733745140, guid: ad321dae47565c04e9676da40375494c, type: 3}
+  - spearAnim: {fileID: 9100000, guid: aa01b2b60ad54144ca73ba45c6d1c5f6, type: 2}
+  - swordShieldAnim: {fileID: 9100000, guid: 0d491e0fbf8425a4aa2e8de8cbc51352, type: 2}
+  - spearShieldAnim: {fileID: 9100000, guid: 8eb3c7ed23d570e4085bcd821e1e4637, type: 2}
+  - bowAnim: {fileID: 9100000, guid: 287c93206850aa146b9309a08d641d32, type: 2}
+  - mageAnim: {fileID: 9100000, guid: 740052aeb18ffdd4fb4acb2106db6c48, type: 2}
+  - twoHAnim: {fileID: 9100000, guid: 10bc75e622b334741af0247b24141ac4, type: 2}
+  - crossbowAnim: {fileID: 9100000, guid: 6abf445369a95554aaea95ac46cb2e3e, type: 2}
+  - dualWieldingAnim: {fileID: 9100000, guid: d0160a450726e564da79a82481a33f37, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
